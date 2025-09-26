@@ -1,2 +1,2 @@
-# GIS using R
+## GIS using R
 Sf, terra, gstat, tmap ...
